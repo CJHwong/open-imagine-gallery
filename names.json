@@ -1202,5 +1202,157 @@
  "r9/out_edit2/e02_banner_fix.png": {
   "title": "Door scroll text corrected",
   "category": "Photo editing and retouching"
+ },
+ "r15/out_p/p01_studio_beauty.png": {
+  "title": "Studio beauty portrait with curly hair",
+  "category": "Portraits"
+ },
+ "r15/out_p/p02_environmental_baker.png": {
+  "title": "Baker in front of his oven",
+  "category": "Portraits"
+ },
+ "r15/out_p/p03_editorial_suit.png": {
+  "title": "Mustard suit against a pink wall",
+  "category": "Portraits"
+ },
+ "r15/out_p/p04_family_couch.png": {
+  "title": "Family laughing on the couch with a beagle",
+  "category": "Portraits"
+ },
+ "r15/out_p/p05_low_key_violinist.png": {
+  "title": "Violinist in low-key light",
+  "category": "Portraits"
+ },
+ "r15/out_p/p06_headshot_corporate.png": {
+  "title": "Business headshot with silver hair",
+  "category": "Portraits"
+ },
+ "r15/out_p/p07_backlit_teen.png": {
+  "title": "Skateboarder backlit at golden hour",
+  "category": "Portraits"
+ },
+ "r15/out_p/p08_wrinkles_bw.png": {
+  "title": "Black-and-white portrait in a straw hat",
+  "category": "Portraits"
+ },
+ "r15/out_p/p09_kid_puddle_hero.png": {
+  "title": "Girl in a red raincoat and cape",
+  "category": "Portraits"
+ },
+ "r15/out_p/p10_window_reader.png": {
+  "title": "Reader by a curtained window",
+  "category": "Portraits"
+ },
+ "r15/out_p/p11_rembrandt_chef.png": {
+  "title": "Chef in Rembrandt light",
+  "category": "Portraits"
+ },
+ "r15/out_p/p12_gel_neon.png": {
+  "title": "Magenta and cyan gel portrait",
+  "category": "Portraits"
+ },
+ "r15/out_p/e01_volcano_cutaway.png": {
+  "title": "Volcano cutaway",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e02_cell_3d.png": {
+  "title": "Animal cell cut open",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e03_solar_system.png": {
+  "title": "Solar system lineup",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e04_axonometric_house.png": {
+  "title": "Axonometric house with the roof lifted",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e05_section_museum.png": {
+  "title": "Hillside museum section",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e06_render_pavilion.png": {
+  "title": "Timber pavilion by a lake at dusk",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e07_insect_plate.png": {
+  "title": "Natural history plate of beetles",
+  "category": "Scientific and architectural illustration"
+ },
+ "r15/out_p/e08_water_cycle.png": {
+  "title": "Water cycle diagram",
+  "category": "Scientific and architectural illustration"
+ },
+ "r16/out_c/c01_knit_sweater.png": {
+  "title": "Cable-knit sweater flat lay",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c02_ceramic_glaze.png": {
+  "title": "Celadon stoneware bowl",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c03_risograph.png": {
+  "title": "Risograph bus in the rain",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c04_linocut.png": {
+  "title": "Heron linocut print",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c05_embroidery.png": {
+  "title": "Wildflower embroidery hoop",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c06_fashion_flat.png": {
+  "title": "Denim chore jacket technical flat",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c07_lookbook.png": {
+  "title": "Olive linen suit lookbook",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c08_fabric_print.png": {
+  "title": "Lemon textile print",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c09_leather_wallet.png": {
+  "title": "Hand-stitched leather wallet",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/c10_paper_quilling.png": {
+  "title": "Paper quilling koi",
+  "category": "Craft, print and fashion"
+ },
+ "r16/out_c/g01_env_ruins.png": {
+  "title": "Jungle ruins with a rope bridge",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g02_char_turnaround.png": {
+  "title": "Desert courier turnaround",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g03_prop_sheet.png": {
+  "title": "Fantasy lantern prop sheet",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g04_keyframe.png": {
+  "title": "Astronaut walking to a giant ring",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g05_creature.png": {
+  "title": "Shrine-bearing tortoise",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g06_vehicle.png": {
+  "title": "Six-wheeled desert rover",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g07_interior.png": {
+  "title": "Airship cabin interior",
+  "category": "Game and film concept art"
+ },
+ "r16/out_c/g08_moodboard_key.png": {
+  "title": "Neon market color key",
+  "category": "Game and film concept art"
  }
 }

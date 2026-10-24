@@ -79,7 +79,10 @@ MAKE_FOLDERS = {
     "11_street_and_candid",
     "12_anime",
     "17_guided_flow",
+    "fill_rounds",
 }
+# Rounds made to fill thin By use topics. Each image's topic and title come from names.json.
+FILL_ROUNDS = ("r15/", "r16/")
 # Study images that must not be published: a real person's likeness, a real mark, nudity, or a
 # living artist's signature motif.
 EXCLUDE = {"r12/out_g/g8_kahlo_name.png", "r13/out_s/s083.png", "r13/out_s/s099.png"}
@@ -195,6 +198,13 @@ def fingerprint(stem: str) -> int:
     )
 
 
+def look_alike(item: dict, other: dict) -> bool:
+    """Near-identical thumbnails of related prompts. The prompt test keeps two unrelated grids on
+    white apart: a sticker sheet and a lantern prop sheet differed in one bit of the hash."""
+    close = (item["_hash"] ^ other["_hash"]).bit_count() <= 5
+    return close and similar(item["prompt"], other["prompt"]) >= 0.3
+
+
 def distinct(items: list[dict]) -> list[dict]:
     """One image per prompt (or a prompt with nine words in ten the same) and per look-alike
     group, so a visitor does not scroll past repeats.
@@ -211,7 +221,7 @@ def distinct(items: list[dict]) -> list[dict]:
         prompts.append(item["prompt"])
         item["_hash"] = fingerprint(item["stem"])
         for group in groups:
-            if any((item["_hash"] ^ other["_hash"]).bit_count() <= 5 for other in group):
+            if any(look_alike(item, other) for other in group):
                 group.append(item)
                 break
         else:
@@ -226,6 +236,8 @@ def topic_for(relative: str, study: Path, collect) -> str | None:
     """The page topic of a study image, or None when the page leaves it out."""
     if relative.startswith(("r13/", "r14/")):
         return "19_showcase"
+    if relative.startswith(FILL_ROUNDS):
+        return "fill_rounds"
     name = Path(relative).name
     if relative.startswith("r1/rewritten"):
         return None if Path(name).stem in REWRITE_LOST else collect.topic_of(f"r1/brief/{name}")

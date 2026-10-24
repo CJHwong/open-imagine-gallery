@@ -84,7 +84,7 @@ MAKE_FOLDERS = {
     "fill_rounds",
 }
 # Rounds made to fill thin By use topics. Each image's topic and title come from names.json.
-FILL_ROUNDS = ("r15/", "r16/", "r19/", "r20/")
+FILL_ROUNDS = ("r15/", "r16/", "r19/", "r20/", "r21/", "r22/")
 # Showcase rounds, in the order they lead the tab: full-model renders, then the masterpieces
 # made on Turbo, then style combinations, then the first showcase round.
 SHOWCASE_ROUNDS = ("r18/", "r14/", "r17/", "r13/")

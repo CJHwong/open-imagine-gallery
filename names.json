@@ -1354,5 +1354,53 @@
  "r16/out_c/g08_moodboard_key.png": {
   "title": "Neon market color key",
   "category": "Game and film concept art"
+ },
+ "r20/out_d/cafe_v3_s7.png": {
+  "title": "Four different friends at a café table",
+  "category": "Portraits"
+ },
+ "r20/out_d/dinner_v3_s11.png": {
+  "title": "Family of five passing noodles",
+  "category": "Portraits"
+ },
+ "r20/out_d/office_v3_s7.png": {
+  "title": "Team photo of six different coworkers",
+  "category": "Portraits"
+ },
+ "r19/out_c/a2_anime.png": {
+  "title": "Jazz night concept: modern anime",
+  "category": "From brief to final"
+ },
+ "r19/out_c/a3_pastel.png": {
+  "title": "Jazz night concept: pastel film still",
+  "category": "From brief to final"
+ },
+ "r19/out_c/a4_trix.png": {
+  "title": "Jazz night concept: gritty black and white",
+  "category": "From brief to final"
+ },
+ "r19/out_c2/a_final.png": {
+  "title": "Jazz night poster, final from the anime concept",
+  "category": "From brief to final"
+ },
+ "r19/out_c2/b1_ektachrome_w1.png": {
+  "title": "Cat wallpaper concept: cool slide film",
+  "category": "From brief to final"
+ },
+ "r19/out_c2/b2_trix_w1.png": {
+  "title": "Cat wallpaper concept: black and white film",
+  "category": "From brief to final"
+ },
+ "r19/out_c2/b3_disposable_w1.png": {
+  "title": "Cat wallpaper concept: disposable camera flash",
+  "category": "From brief to final"
+ },
+ "r19/out_c2/b4_crossprocess_w1.png": {
+  "title": "Cat wallpaper concept: cross-processed film",
+  "category": "From brief to final"
+ },
+ "r19/out_c3/b_final.png": {
+  "title": "Cat phone wallpaper, final from the slide film concept",
+  "category": "From brief to final"
  }
 }

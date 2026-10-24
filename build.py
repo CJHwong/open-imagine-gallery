@@ -84,7 +84,7 @@ MAKE_FOLDERS = {
     "fill_rounds",
 }
 # Rounds made to fill thin By use topics. Each image's topic and title come from names.json.
-FILL_ROUNDS = ("r15/", "r16/")
+FILL_ROUNDS = ("r15/", "r16/", "r19/", "r20/")
 # Showcase rounds, in the order they lead the tab: full-model renders, then the masterpieces
 # made on Turbo, then style combinations, then the first showcase round.
 SHOWCASE_ROUNDS = ("r18/", "r14/", "r17/", "r13/")
@@ -234,11 +234,12 @@ def distinct(items: list[dict]) -> list[dict]:
 
     The study re-ran prompts at more seeds, A/B-tested wording that changed nothing visible, and
     chained edits that change one detail. An edit wins its group, since its detail view shows the
-    image it came from.
+    image it came from. That holds for a repeated prompt too: a final made from a concept keeps
+    the concept's prompt, so the image with a reference is met first.
     """
     groups: list[list[dict]] = []
     prompts: list[str] = []
-    for item in items:
+    for item in sorted(items, key=lambda item: not item["refs"]):
         if any(similar(item["prompt"], prompt) >= 0.9 for prompt in prompts):
             continue
         prompts.append(item["prompt"])

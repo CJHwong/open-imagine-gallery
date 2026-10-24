@@ -26,6 +26,8 @@ SETUP = {
     "app_url": "https://github.com/CJHwong/open-imagine",
 }
 DEFAULT_GUIDANCE = {"generate": 1.0, "edit": 1.0}
+# Backends other than the one SETUP names, by the id the request sent, as the page shows them.
+OTHER_MODELS = {"qwen21": "Qwen-Image 2.1"}
 
 # The hero mosaic, in its order: the first fills a tall cell and the fifth a wide one.
 FEATURED = [
@@ -83,6 +85,12 @@ MAKE_FOLDERS = {
 }
 # Rounds made to fill thin By use topics. Each image's topic and title come from names.json.
 FILL_ROUNDS = ("r15/", "r16/")
+# Showcase rounds, in the order they lead the tab: full-model renders, then the masterpieces
+# made on Turbo, then style combinations, then the first showcase round.
+SHOWCASE_ROUNDS = ("r18/", "r14/", "r17/", "r13/")
+# Masterpieces whose full-model render beat the Turbo image. The other renders came back the same
+# or worse, so the page keeps their Turbo image.
+FULL_MODEL_WINS = {"01_glass_whale", "03_dragon_mountains"}
 # Study images that must not be published: a real person's likeness, a real mark, nudity, or a
 # living artist's signature motif.
 EXCLUDE = {"r12/out_g/g8_kahlo_name.png", "r13/out_s/s083.png", "r13/out_s/s099.png"}
@@ -105,14 +113,27 @@ def collector(study: Path):
     return module
 
 
+def showcase_rank(stem: str) -> int:
+    """The position of a showcase image's round in SHOWCASE_ROUNDS; other images rank last."""
+    rounds = [name.rstrip("/") for name in SHOWCASE_ROUNDS]
+    return next((rank for rank, name in enumerate(rounds) if stem.startswith(name)), len(rounds))
+
+
+def rerendered(png: Path, study: Path) -> bool:
+    """One of a Turbo masterpiece and its full-model render, whichever looked worse: the page shows
+    the other. The full model won only where FULL_MODEL_WINS says."""
+    if png.parent == study / "r14" / "out_x":
+        return png.stem[1:] in FULL_MODEL_WINS
+    return png.parent.parent == study / "r18" and png.stem[1:] not in FULL_MODEL_WINS
+
+
 def verdicts(study: Path) -> dict[str, list]:
     """name -> [look, verdict, watch for] from every verdict file in the index folder."""
     rows = {}
     for path in (study / "index").glob("verdicts_*.json"):
         for table in json.loads(path.read_text()).values():
             rows.update({name: row for name, row in table.items() if not name.startswith("_")})
-    for showcase in (study / "r13" / "verdicts_s.json", study / "r14" / "verdicts_x.json"):
-        if showcase.exists():
+    for showcase in study.glob("r1[3-9]/verdicts_*.json"):
             rows.update(json.loads(showcase.read_text()))
     return rows
 
@@ -153,6 +174,8 @@ def inputs(png: Path, shared: dict) -> dict | None:
     for key in ("strength", "resolution"):
         if key in sent:
             fields[key] = sent[key]
+    if sent.get("backend") in OTHER_MODELS:
+        fields["model"] = OTHER_MODELS[sent["backend"]]
     if sent.get("rewrite"):
         fields["note"] = "Open Imagine's Rewrite expanded a short request into this prompt"
     fields["seconds"] = result.get("elapsed")
@@ -234,7 +257,7 @@ def distinct(items: list[dict]) -> list[dict]:
 
 def topic_for(relative: str, study: Path, collect) -> str | None:
     """The page topic of a study image, or None when the page leaves it out."""
-    if relative.startswith(("r13/", "r14/")):
+    if relative.startswith(SHOWCASE_ROUNDS):
         return "19_showcase"
     if relative.startswith(FILL_ROUNDS):
         return "fill_rounds"
@@ -320,6 +343,8 @@ def main() -> int:
         relative = png.relative_to(study).as_posix()
         if "/_" in relative or "/sheets/" in relative or relative in EXCLUDE:
             continue
+        if rerendered(png, study):
+            continue
         folder = topic_for(relative, study, collect)
         named = names.get(relative, {})
         topic = named.get("category") if folder in MAKE_FOLDERS else FOLDER_TOPICS.get(folder)
@@ -351,8 +376,7 @@ def main() -> int:
     order = list(TOPICS)
     items = sorted(
         [item for item in items if item["group"] != "make"] + uses,
-        # The newest showcase round, made to impress rather than to test one style, leads its tab.
-        key=lambda item: (order.index(item["topic"]), not item["stem"].startswith("r14")),
+        key=lambda item: (order.index(item["topic"]), showcase_rank(item["stem"])),
     )
     page_names(items)
     files = {item["id"]: item.pop("stem") for item in items}

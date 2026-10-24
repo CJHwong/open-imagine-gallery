@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Open Imagine: image gallery</title>
+  <meta name="description" content="Images made with Open Imagine, a local image, video and voice studio for Apple Silicon. Each one shows the exact prompt and settings used.">
+  <link rel="icon" href="logo.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-text">
+        <h1><img src="logo.svg" alt="" width="56" height="56">Open Imagine</h1>
+        <p class="lede">A local image, video and voice studio for Apple Silicon. Every image here was made in it, with the prompt and settings shown so you can make it yourself.</p>
+        <a class="cta" href="https://github.com/CJHwong/open-imagine">Get Open Imagine on GitHub</a>
+        <p id="stats" class="stats"></p>
+      </div>
+      <div id="featured" class="featured" aria-label="Featured images"></div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="wrap">
+      <nav id="tabs" class="segmented" aria-label="Sections">
+        <button data-group="showcase">Showcase</button>
+        <button data-group="make">By use</button>
+        <button data-group="compare">Style comparisons</button>
+      </nav>
+      <input id="search" type="search" placeholder="Search" aria-label="Search prompts">
+    </div>
+    <div class="wrap chips-row">
+      <div id="topics" class="chips" aria-label="Topics"></div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <p id="count" aria-live="polite"></p>
+    <div id="grid"></div>
+  </main>
+
+  <footer class="wrap">
+    <p id="setup"></p>
+  </footer>
+
+  <dialog id="detail" aria-label="Image detail">
+    <div class="detail">
+      <figure>
+        <img id="detail-img" alt="">
+      </figure>
+      <aside>
+        <div class="detail-bar">
+          <button id="prev" aria-label="Previous image">&larr;</button>
+          <button id="next" aria-label="Next image">&rarr;</button>
+          <button id="close" aria-label="Close">&times;</button>
+        </div>
+        <div id="detail-text"></div>
+      </aside>
+    </div>
+  </dialog>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

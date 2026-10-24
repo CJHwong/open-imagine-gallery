@@ -1,0 +1,1206 @@
+{
+ "r1/brief/07_logo.png": {
+  "title": "Ember and Oak roastery logo",
+  "category": "Graphic design and lettering"
+ },
+ "r1/brief/11_infographic.png": {
+  "title": "Heat pump infographic",
+  "category": "Graphic design and lettering"
+ },
+ "r1/brief/22_tattoo_flash.png": {
+  "title": "Swallow tattoo flash with banner",
+  "category": "Craft, print and fashion"
+ },
+ "r1/brief/23_avatar.png": {
+  "title": "Curly-haired 3D toy avatar",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/brief/25_3d_render.png": {
+  "title": "Vinyl fox astronaut toy",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/01_poster.png": {
+  "title": "Northern light exhibition poster",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/02_book_cover.png": {
+  "title": "Thriller cover with cabin window",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/03_invitation.png": {
+  "title": "Wedding invitation with gold border",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/04_thumbnail.png": {
+  "title": "Video thumbnail with burnt pan",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/05_lettering.png": {
+  "title": "Pink balloon BLOOM lettering",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/06_chinese_sign.png": {
+  "title": "Neon braised pork rice sign",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/08_icon_set.png": {
+  "title": "Navy outline app icon set",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/09_sticker.png": {
+  "title": "Red panda die-cut sticker",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/10_app_ui.png": {
+  "title": "Mobile banking app home screen",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/12_map.png": {
+  "title": "Fantasy island parchment map",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/13_tech_diagram.png": {
+  "title": "Lithium battery cross-section diagram",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/14_packaging.png": {
+  "title": "Kraft coffee pouch label",
+  "category": "Product photography and ads"
+ },
+ "r1/rewritten/15_merch_mug.png": {
+  "title": "Fox Club mug in morning light",
+  "category": "Product photography and ads"
+ },
+ "r1/rewritten/16_seamless_pattern.png": {
+  "title": "Ginkgo leaf seamless pattern",
+  "category": "Craft, print and fashion"
+ },
+ "r1/rewritten/17_meme.png": {
+  "title": "Grumpy cat meme, 5 AM",
+  "category": "Graphic design and lettering"
+ },
+ "r1/rewritten/18_character_sheet.png": {
+  "title": "Knight turnaround character sheet",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/19_comic.png": {
+  "title": "Noir detective and cat comic",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/20_childrens_book.png": {
+  "title": "Hedgehog splashing in a puddle",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/21_coloring_page.png": {
+  "title": "Dragon and castle coloring page",
+  "category": "Character design, stickers and icons"
+ },
+ "r1/rewritten/24_isometric.png": {
+  "title": "Isometric floating bookshop",
+  "category": "Scientific and architectural illustration"
+ },
+ "r1/rewritten/26_sprite_sheet.png": {
+  "title": "Pixel knight sprite row on magenta",
+  "category": "Game and film concept art"
+ },
+ "r1/rewritten/27_game_concept.png": {
+  "title": "Side-scroller forest concept art",
+  "category": "Game and film concept art"
+ },
+ "r1/rewritten/28_interior.png": {
+  "title": "Scandinavian living room interior",
+  "category": "Product photography and ads"
+ },
+ "r1/rewritten/29_flatlay.png": {
+  "title": "Coat and sneakers flat lay",
+  "category": "Product photography and ads"
+ },
+ "r10/out/a01_taipei_scooters.png": {
+  "title": "Scooters in the Taipei rain",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a02_tokyo_platform.png": {
+  "title": "Tokyo platform at rush hour",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a03_lagos_market.png": {
+  "title": "Lagos market tomato stall",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a04_mumbai_train.png": {
+  "title": "Mumbai local train doorway",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a05_mexico_tacos.png": {
+  "title": "Mexico City taco stand at night",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a06_paris_cafe.png": {
+  "title": "Paris cafe terrace in gray light",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a07_nyc_subway.png": {
+  "title": "New York subway car at night",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a08_istanbul_ferry.png": {
+  "title": "Istanbul ferry with seagulls",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a09_chess_park.png": {
+  "title": "Chess players in the park",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a10_puddle_kids.png": {
+  "title": "Kids jumping in a puddle",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a11_wheelchair.png": {
+  "title": "Wheelchair user at a crosswalk",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a12_busker.png": {
+  "title": "Saxophone busker at dusk",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a13_busstop_couple.png": {
+  "title": "Couple arguing at a bus stop",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a14_rider_lunch.png": {
+  "title": "Delivery rider eating lunch",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a15_long_shadows.png": {
+  "title": "Long shadows across a plaza",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a16_doorway_silhouette.png": {
+  "title": "Silhouette in a bright doorway",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a17_fog_dawn.png": {
+  "title": "Foggy dawn on a canal bridge",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a18_snow_sodium.png": {
+  "title": "Snowy street under orange lights",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a19_noon_shade.png": {
+  "title": "Alley split by sun and shade",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a20_window_reflection.png": {
+  "title": "Bakery window with street reflection",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a21_puddle_reflection.png": {
+  "title": "Red umbrella in a puddle",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a22_slow_shutter.png": {
+  "title": "Slow shutter crossing, one still woman",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a23_layers.png": {
+  "title": "Layered street with fruit seller",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a24_phone_dinner.png": {
+  "title": "Messy family dinner table",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a25_party_flash.png": {
+  "title": "Flash photo at a house party",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a26_bus_window.png": {
+  "title": "Tilted view from a city bus",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a27_dog_selfie.png": {
+  "title": "Selfie with a golden retriever",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a28_70s_beach.png": {
+  "title": "1970s family beach snapshot",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a29_concert_blur.png": {
+  "title": "Blurry rock concert from the crowd",
+  "category": "Street and travel photography"
+ },
+ "r10/out/a30_old_neighborhood.png": {
+  "title": "Bicycle repair stall in Taiwan",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b01a_candid_plain.png": {
+  "title": "Woman at a crosswalk",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b01b_candid_cue.png": {
+  "title": "Woman at a crosswalk, candid framing",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b02a_film_plain.png": {
+  "title": "Fisherman mending nets",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b02b_film_cue.png": {
+  "title": "Fisherman mending nets, film grain",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b03a_night_ambient.png": {
+  "title": "Noodle stall at night, ambient light",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b03b_night_flash.png": {
+  "title": "Noodle stall at night, direct flash",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b04a_crowd_few.png": {
+  "title": "Shopping street with few people",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b04b_crowd_many.png": {
+  "title": "Shopping street, dense crowd",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b05a_signs_unquoted.png": {
+  "title": "Taipei alley, unquoted signs",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b05b_signs_quoted.png": {
+  "title": "Taipei alley, quoted Chinese signs",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b05c_signs_ja_quoted.png": {
+  "title": "Tokyo alley, quoted Japanese signs",
+  "category": "Street and travel photography"
+ },
+ "r10/out/b06a_short_brief.png": {
+  "title": "Old lady feeding pigeons",
+  "category": "Street and travel photography"
+ },
+ "r10/out_rw/b06b_short_rewrite.png": {
+  "title": "Woman feeding pigeons on a ledge",
+  "category": "Street and travel photography"
+ },
+ "r11/out/a01_rooftop_lunch.png": {
+  "title": "Rooftop bento lunch",
+  "category": "Anime"
+ },
+ "r11/out/a02_festival.png": {
+  "title": "Goldfish scooping at a festival",
+  "category": "Anime"
+ },
+ "r11/out/a03_station_goodbye.png": {
+  "title": "Rainy station goodbye",
+  "category": "Anime"
+ },
+ "r11/out/a04_konbini_night.png": {
+  "title": "Late-night convenience store",
+  "category": "Anime"
+ },
+ "r11/out/a05_cat_cafe.png": {
+  "title": "Shy girl in a cat cafe",
+  "category": "Anime"
+ },
+ "r11/out/a06_music_room.png": {
+  "title": "Music club room band",
+  "category": "Anime"
+ },
+ "r11/out/a07_bus_stop_clouds.png": {
+  "title": "Country bus stop under big clouds",
+  "category": "Anime"
+ },
+ "r11/out/a08_starry_lake.png": {
+  "title": "Starry lake seen from a jetty",
+  "category": "Anime"
+ },
+ "r11/out/a09_neon_rain.png": {
+  "title": "Neon city crossing in rain",
+  "category": "Anime"
+ },
+ "r11/out/a10_seaside_sunset.png": {
+  "title": "Seaside bicycle ride at sunset",
+  "category": "Anime"
+ },
+ "r11/out/a11_sakura_river.png": {
+  "title": "Cherry blossom riverbank walk",
+  "category": "Anime"
+ },
+ "r11/out/a12_empty_classroom.png": {
+  "title": "Empty classroom at golden hour",
+  "category": "Anime"
+ },
+ "r11/out/a13_sword_clash.png": {
+  "title": "Night sword clash",
+  "category": "Anime"
+ },
+ "r11/out/a14_magic_circle.png": {
+  "title": "Mage girl with magic circle",
+  "category": "Anime"
+ },
+ "r11/out/a15_mecha_launch.png": {
+  "title": "Mecha launch from a hangar",
+  "category": "Anime"
+ },
+ "r11/out/a16_volleyball_spike.png": {
+  "title": "Volleyball spike at the net",
+  "category": "Anime"
+ },
+ "r11/out/a17_rooftop_chase.png": {
+  "title": "Rooftop chase at sunset",
+  "category": "Anime"
+ },
+ "r11/out/a18_80s_ova.png": {
+  "title": "Retro cyberpunk motorbike rider",
+  "category": "Anime"
+ },
+ "r11/out/a19_90s_shoujo.png": {
+  "title": "Shoujo girl surrounded by roses",
+  "category": "Anime"
+ },
+ "r11/out/a20_seinen_alley.png": {
+  "title": "Scarred mercenary in a wet alley",
+  "category": "Anime"
+ },
+ "r11/out/a21_isekai_market.png": {
+  "title": "Fantasy town market",
+  "category": "Anime"
+ },
+ "r11/out/a22_chibi_comedy.png": {
+  "title": "Chibi pudding chase",
+  "category": "Anime"
+ },
+ "r11/out/a23_countryside_traits.png": {
+  "title": "Sisters running through tall grass",
+  "category": "Anime"
+ },
+ "r11/out/a24_japanese_signs.png": {
+  "title": "Japanese shopping street signs",
+  "category": "Anime"
+ },
+ "r11/out/a25_manga_page.png": {
+  "title": "Four-panel manga page",
+  "category": "Anime"
+ },
+ "r11/out/a26_title_card.png": {
+  "title": "Anime episode title card",
+  "category": "Anime"
+ },
+ "r11/out/b01a_label_only.png": {
+  "title": "Girl reading a letter",
+  "category": "Anime"
+ },
+ "r11/out/b01b_method.png": {
+  "title": "Girl reading a letter, cel style",
+  "category": "Anime"
+ },
+ "r11/out/b02a_short_brief.png": {
+  "title": "Girl waiting for a snowy train",
+  "category": "Anime"
+ },
+ "r11/out/b03a_sfx_unquoted.png": {
+  "title": "Explosion with sound-effect lettering",
+  "category": "Anime"
+ },
+ "r11/out/b04a_two_chars.png": {
+  "title": "Two friends at a cafe table",
+  "category": "Anime"
+ },
+ "r11/out/b04b_four_chars.png": {
+  "title": "Four friends at a cafe table",
+  "category": "Anime"
+ },
+ "r11/out/b05a_eye_plain.png": {
+  "title": "Schoolgirl walking a canal at sunset",
+  "category": "Anime"
+ },
+ "r11/out/b05b_eye_candid.png": {
+  "title": "Schoolgirl on canal, candid framing",
+  "category": "Anime"
+ },
+ "r11/out/c02_aoi_city.png": {
+  "title": "Aoi at a neon crosswalk",
+  "category": "Anime"
+ },
+ "r11/out/c03_aoi_beach.png": {
+  "title": "Aoi walking a beach at sunset",
+  "category": "Anime"
+ },
+ "r11/out_edit/e01_aoi_laugh.png": {
+  "title": "Anime girl laughing with eyes closed",
+  "category": "Photo editing and retouching"
+ },
+ "r11/out_edit/e02_aoi_outfit.png": {
+  "title": "Anime girl in a yellow raincoat",
+  "category": "Photo editing and retouching"
+ },
+ "r11/out_gen3/n01_ozu_name.png": {
+  "title": "Named only: Yasujiro Ozu"
+ },
+ "r11/out_gen3/n02_kurosawa_name.png": {
+  "title": "Named only: Akira Kurosawa"
+ },
+ "r11/out_gen3/n03_kubrick_name.png": {
+  "title": "Named only: Stanley Kubrick"
+ },
+ "r11/out_gen3/n04_tati_name.png": {
+  "title": "Named only: Jacques Tati"
+ },
+ "r11/out_rw/b02b_short_rewrite.png": {
+  "title": "Girl at snowy tracks, detailed painting",
+  "category": "Anime"
+ },
+ "r12/out_i/i_anime_14mm.png": {
+  "title": "Anime, 14 mm ultra-wide"
+ },
+ "r12/out_i/i_anime_300mm.png": {
+  "title": "Anime, 300 mm telephoto"
+ },
+ "r12/out_i/i_anime_anamorphic.png": {
+  "title": "Anime, anamorphic lens"
+ },
+ "r12/out_i/i_anime_dutch.png": {
+  "title": "Anime, Dutch angle"
+ },
+ "r12/out_i/i_anime_fisheye.png": {
+  "title": "Anime, fisheye lens"
+ },
+ "r12/out_i/i_anime_macro.png": {
+  "title": "Anime, macro lens"
+ },
+ "r12/out_i/i_anime_tiltshift.png": {
+  "title": "Anime, tilt-shift lens"
+ },
+ "r12/out_i/i_anime_wormseye.png": {
+  "title": "Anime, worm's-eye view"
+ },
+ "r12/out_i/i_oil_14mm.png": {
+  "title": "Oil painting, 14 mm ultra-wide"
+ },
+ "r12/out_i/i_oil_300mm.png": {
+  "title": "Oil painting, 300 mm telephoto"
+ },
+ "r12/out_i/i_oil_anamorphic.png": {
+  "title": "Oil painting, anamorphic lens"
+ },
+ "r12/out_i/i_oil_dutch.png": {
+  "title": "Oil painting, Dutch angle"
+ },
+ "r12/out_i/i_oil_fisheye.png": {
+  "title": "Oil painting, fisheye lens"
+ },
+ "r12/out_i/i_oil_macro.png": {
+  "title": "Oil painting, macro lens"
+ },
+ "r12/out_i/i_oil_tiltshift.png": {
+  "title": "Oil painting, tilt-shift lens"
+ },
+ "r12/out_i/i_oil_wormseye.png": {
+  "title": "Oil painting, worm's-eye view"
+ },
+ "r12/out_j/j_g3_baroque_s11.png": {
+  "title": "Baroque chiaroscuro, seed 11"
+ },
+ "r12/out_j/j_g3_baroque_s23.png": {
+  "title": "Baroque chiaroscuro, seed 23"
+ },
+ "r12/out_j/j_g4_impasto_s11.png": {
+  "title": "Post-Impressionist impasto, seed 11"
+ },
+ "r12/out_j/j_g4_impasto_s23.png": {
+  "title": "Post-Impressionist impasto, seed 23"
+ },
+ "r12/out_j/j_g6_superflat_s11.png": {
+  "title": "Superflat, flat bright shapes with smiling flowers, seed 11"
+ },
+ "r12/out_j/j_g6_superflat_s23.png": {
+  "title": "Superflat, flat bright shapes with smiling flowers, seed 23"
+ },
+ "r12/out_j/j_g7_cn_papercut_s11.png": {
+  "title": "Chinese red paper cut, seed 11"
+ },
+ "r12/out_j/j_g7_cn_papercut_s23.png": {
+  "title": "Chinese red paper cut, seed 23"
+ },
+ "r12/out_j/j_g7_gond_s11.png": {
+  "title": "Gond dot-and-dash painting (India), seed 11"
+ },
+ "r12/out_j/j_g7_gond_s23.png": {
+  "title": "Gond dot-and-dash painting (India), seed 23"
+ },
+ "r12/out_j/j_h1_85mm_s11.png": {
+  "title": "85 mm portrait, creamy background, seed 11"
+ },
+ "r12/out_j/j_h1_85mm_s23.png": {
+  "title": "85 mm portrait, creamy background, seed 23"
+ },
+ "r12/out_j/j_h1_fisheye_full_s11.png": {
+  "title": "Full-frame fisheye, seed 11"
+ },
+ "r12/out_j/j_h1_fisheye_full_s23.png": {
+  "title": "Full-frame fisheye, seed 23"
+ },
+ "r12/out_j/j_h1_tilt_shift_mini_s11.png": {
+  "title": "Tilt-shift miniature, seed 11"
+ },
+ "r12/out_j/j_h1_tilt_shift_mini_s23.png": {
+  "title": "Tilt-shift miniature, seed 23"
+ },
+ "r12/out_j/j_h2_super8_s11.png": {
+  "title": "Super 8 home movie, seed 11"
+ },
+ "r12/out_j/j_h2_super8_s23.png": {
+  "title": "Super 8 home movie, seed 23"
+ },
+ "r12/out_j/j_h2_sx70_s11.png": {
+  "title": "Polaroid instant photo, dreamy, seed 11"
+ },
+ "r12/out_j/j_h2_sx70_s23.png": {
+  "title": "Polaroid instant photo, dreamy, seed 23"
+ },
+ "r12/out_k/k00_base_full.png": {
+  "title": "Golden retriever on a park bench",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k01_closer.png": {
+  "title": "Park bench dog, close framing",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k02_wider.png": {
+  "title": "Park bench dog, wide view",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k03_low.png": {
+  "title": "Park bench dog, low angle",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k04_above.png": {
+  "title": "Park bench dog, from above",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k05_warmer.png": {
+  "title": "Park bench dog, golden light",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k07_dramatic.png": {
+  "title": "Park bench dog, dramatic side light",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k08_moment.png": {
+  "title": "Dog leaping off the bench",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k09_stylized.png": {
+  "title": "Park bench dog, flat vector",
+  "category": "From brief to final"
+ },
+ "r12/out_k/k10_more_real_from_stylized.png": {
+  "title": "Vector dog turned back to photo",
+  "category": "From brief to final"
+ },
+ "r12/out_k_edit/k21_edit_warmer.png": {
+  "title": "Bench dog edited to golden light",
+  "category": "From brief to final"
+ },
+ "r12/out_k_edit/k23_edit_dramatic.png": {
+  "title": "Bench dog edited to dramatic light",
+  "category": "From brief to final"
+ },
+ "r12/out_k_edit/k24_edit_stylized.png": {
+  "title": "Bench dog redrawn as flat vector",
+  "category": "From brief to final"
+ },
+ "r2/out/h01a_noquote.png": {
+  "title": "Open Late bakery sign",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h03a_caps_outside.png": {
+  "title": "Cafe chalkboard, lowercase heading",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h03b_caps_inside.png": {
+  "title": "Cafe chalkboard, capital heading",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h04a_two_lines.png": {
+  "title": "Minimalist poster, two lines",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h04b_six_lines.png": {
+  "title": "Minimalist poster, six lines",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h07a_word.png": {
+  "title": "Brass nameplate on a green door",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h10a_artifact_last.png": {
+  "title": "Fox sticker holding a cup",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h12a_plain.png": {
+  "title": "Red bicycle, flat vector",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h12b_boosters.png": {
+  "title": "Red bicycle, with quality keywords",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h13a_negative.png": {
+  "title": "White sneaker, negative wording",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h13b_positive.png": {
+  "title": "White sneaker on light gray",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h14a_transparent.png": {
+  "title": "Red teapot, asked for transparency",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h14b_white.png": {
+  "title": "Red teapot cutout on white",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h15a_illustration.png": {
+  "title": "Lighthouse poster, plain illustration",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h15b_flat.png": {
+  "title": "Lighthouse poster, flat colors",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h16a_four_plain.png": {
+  "title": "Four apples on a table",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h16b_four_exact.png": {
+  "title": "Four red apples in a row",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h16c_seven_plain.png": {
+  "title": "Seven apples on a table",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h16d_seven_exact.png": {
+  "title": "Seven red apples in a row",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h17a_different.png": {
+  "title": "Four mixed fruits on a plate",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h17b_named.png": {
+  "title": "Banana, orange, pear and grapes",
+  "category": "Product photography and ads"
+ },
+ "r2/out/h19a_short_1.png": {
+  "title": "Mira reading in a library",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h19a_short_2.png": {
+  "title": "Mira riding a bicycle by the sea",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h19a_short_3.png": {
+  "title": "Mira repairing a robot",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h19b_anchor_1.png": {
+  "title": "Mira in goggles reading, outfit described",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h19b_anchor_2.png": {
+  "title": "Mira in goggles cycling, outfit described",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h19b_anchor_3.png": {
+  "title": "Mira in goggles repairing, outfit described",
+  "category": "Character design, stickers and icons"
+ },
+ "r2/out/h20a_cjk_trad.png": {
+  "title": "Teahouse poster, Chinese prompt",
+  "category": "Graphic design and lettering"
+ },
+ "r2/out/h20b_cjk_in_english.png": {
+  "title": "Teahouse poster, English prompt",
+  "category": "Graphic design and lettering"
+ },
+ "r3/out/e01_background_swap.png": {
+  "title": "Coffee pouch moved to a mossy rock",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e02_remove.png": {
+  "title": "Room with the plants removed",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e03_add.png": {
+  "title": "Black cat added to the sofa",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e04_restore.png": {
+  "title": "Damaged old photo restored",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e06_season.png": {
+  "title": "Cafe street changed to snowy winter",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e07_style.png": {
+  "title": "Portrait redrawn as watercolor",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e08_sketch_render.png": {
+  "title": "Armchair sketch turned photorealistic",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e09_text_replace.png": {
+  "title": "Poster title replaced with Southern Sea",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e10_translate.png": {
+  "title": "Infographic translated to Chinese",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e11_zoom_out.png": {
+  "title": "Fox astronaut zoomed out",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e12_expression.png": {
+  "title": "Man given a warm smile",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e13_composite_image_n.png": {
+  "title": "Coffee pouch placed by the sofa",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e15_tryon.png": {
+  "title": "Woman wearing a mustard jacket",
+  "category": "Photo editing and retouching"
+ },
+ "r3/out/e16_character_scene.png": {
+  "title": "Female knight by a campfire",
+  "category": "Photo editing and retouching"
+ },
+ "r4/out/g02_sprite_named_frames.png": {
+  "title": "Pixel knight walk cycle, eight frames",
+  "category": "Game and film concept art"
+ },
+ "r4/out/g03_comic_midaction.png": {
+  "title": "Detective comic with mug mid-air",
+  "category": "Character design, stickers and icons"
+ },
+ "r4/out/g04_flatlay_separated.png": {
+  "title": "Flat lay with items kept apart",
+  "category": "Product photography and ads"
+ },
+ "r4/out/g05_pattern_inset.png": {
+  "title": "Ginkgo leaf swatch in a grid",
+  "category": "Craft, print and fashion"
+ },
+ "r4/out/g06_cjk_infographic.png": {
+  "title": "Heat pump infographic in Chinese",
+  "category": "Graphic design and lettering"
+ },
+ "r4/out/g07_tattoo_reanchored.png": {
+  "title": "Swallow tattoo flash, flat fills",
+  "category": "Craft, print and fashion"
+ },
+ "r4/out/g08_avatar_reanchored.png": {
+  "title": "3D toy avatar with round glasses",
+  "category": "Character design, stickers and icons"
+ },
+ "r4/out_edit/x02_tryon_base_last.png": {
+  "title": "Mustard jacket try-on, photo kept",
+  "category": "Photo editing and retouching"
+ },
+ "r5/out/g01_bar_chart.png": {
+  "title": "Coffee sales bar chart",
+  "category": "Graphic design and lettering"
+ },
+ "r5/out/g03_menu_card.png": {
+  "title": "Trattoria menu card",
+  "category": "Graphic design and lettering"
+ },
+ "r5/out/g04_certificate.png": {
+  "title": "Pottery course certificate",
+  "category": "Graphic design and lettering"
+ },
+ "r5/out/g06_item_icons.png": {
+  "title": "Fantasy RPG item icons",
+  "category": "Game and film concept art"
+ },
+ "r5/out/g07_tileset.png": {
+  "title": "Top-down pixel tileset",
+  "category": "Game and film concept art"
+ },
+ "r5/out/g08_food_photo.png": {
+  "title": "Tonkotsu ramen bowl",
+  "category": "Product photography and ads"
+ },
+ "r5/out/g09_storyboard.png": {
+  "title": "Rainy bus stop storyboard",
+  "category": "Game and film concept art"
+ },
+ "r5/out/g10_phone_wallpaper.png": {
+  "title": "Desert dusk phone wallpaper",
+  "category": "Graphic design and lettering"
+ },
+ "r5/out_edit/x01_cutout_white.png": {
+  "title": "Mug cut out on pure white",
+  "category": "Photo editing and retouching"
+ },
+ "r5/out_edit/x02_relight.png": {
+  "title": "Room relit for warm evening",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out/a01_floor_plan.png": {
+  "title": "Two-bedroom apartment floor plan",
+  "category": "Scientific and architectural illustration"
+ },
+ "r6/out/a02_elevation.png": {
+  "title": "Two-storey house front elevation",
+  "category": "Scientific and architectural illustration"
+ },
+ "r6/out/a03_heart.png": {
+  "title": "Labeled heart cross-section",
+  "category": "Scientific and architectural illustration"
+ },
+ "r6/out/a04_foxglove.png": {
+  "title": "Foxglove botanical plate",
+  "category": "Scientific and architectural illustration"
+ },
+ "r6/out/c01_pet_photo.png": {
+  "title": "Corgi on a wooden porch",
+  "category": "Portraits"
+ },
+ "r6/out/c02_couple.png": {
+  "title": "Older couple on an autumn bench",
+  "category": "Portraits"
+ },
+ "r6/out/c03_plain_mug.png": {
+  "title": "Plain white mug on gray",
+  "category": "Product photography and ads"
+ },
+ "r6/out/g01_card_art.png": {
+  "title": "Frost dragon card art",
+  "category": "Game and film concept art"
+ },
+ "r6/out/g02_token.png": {
+  "title": "Dwarf warrior game token",
+  "category": "Game and film concept art"
+ },
+ "r6/out/g03_battle_map.png": {
+  "title": "Forest clearing battle map",
+  "category": "Game and film concept art"
+ },
+ "r6/out/g04_texture.png": {
+  "title": "Seamless cobblestone texture",
+  "category": "Game and film concept art"
+ },
+ "r6/out/g05_tarot.png": {
+  "title": "Art Nouveau Star tarot card",
+  "category": "Game and film concept art"
+ },
+ "r6/out/k01_tee_graphic.png": {
+  "title": "Retro sunset T-shirt graphic",
+  "category": "Craft, print and fashion"
+ },
+ "r6/out/k02_stencil.png": {
+  "title": "Fox head spray stencil",
+  "category": "Craft, print and fashion"
+ },
+ "r6/out/k03_mandala.png": {
+  "title": "Twelve-fold mandala coloring page",
+  "category": "Craft, print and fashion"
+ },
+ "r6/out/k04_fashion_flat.png": {
+  "title": "Denim jacket technical flat",
+  "category": "Craft, print and fashion"
+ },
+ "r6/out/l01_scene_zh.png": {
+  "title": "Oyster omelette stall, Chinese prompt",
+  "category": "Street and travel photography"
+ },
+ "r6/out/l02_scene_en.png": {
+  "title": "Oyster omelette stall, English prompt",
+  "category": "Street and travel photography"
+ },
+ "r6/out/s01_line_sheet.png": {
+  "title": "Round cat chat sticker sheet",
+  "category": "Character design, stickers and icons"
+ },
+ "r6/out/t02_vertical_sign.png": {
+  "title": "Vertical tea house sign",
+  "category": "Graphic design and lettering"
+ },
+ "r6/out/t03_business_card.png": {
+  "title": "Designer business card",
+  "category": "Graphic design and lettering"
+ },
+ "r6/out/t04_story_safe.png": {
+  "title": "Bakery story with croissant",
+  "category": "Graphic design and lettering"
+ },
+ "r6/out/t05_quote_card.png": {
+  "title": "Sage green quote card",
+  "category": "Graphic design and lettering"
+ },
+ "r6/out/t06_slide_bg.png": {
+  "title": "Slide background with office photo",
+  "category": "Graphic design and lettering"
+ },
+ "r6/out/t07_zhangbei.png": {
+  "title": "Good morning lotus greeting",
+  "category": "Graphic design and lettering"
+ },
+ "r6/out_edit/x01_ad_de.png": {
+  "title": "Shoe ad translated to German",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x02_ad_ja.png": {
+  "title": "Shoe ad translated to Japanese",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x03_ad_ko.png": {
+  "title": "Shoe ad translated to Korean",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x04_ad_ar.png": {
+  "title": "Shoe ad translated to Arabic",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x05_logo_on_mug.png": {
+  "title": "Logo printed on a mug",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x06_mug_colorway.png": {
+  "title": "Mug recolored sage green",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x08_empty_room.png": {
+  "title": "Room emptied of furniture",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x09_pet_chibi.png": {
+  "title": "Corgi photo turned into chibi sticker",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x10_couple_watercolor.png": {
+  "title": "Couple photo repainted in watercolor",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x11_line_art.png": {
+  "title": "Photo turned into line art",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x12_vn_happy.png": {
+  "title": "Character changed to a happy smile",
+  "category": "Photo editing and retouching"
+ },
+ "r6/out_edit/x14_flat_back.png": {
+  "title": "Denim jacket back view flat",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out/b01_banner.png": {
+  "title": "Cafe hero image with empty space",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/b02_quote_long.png": {
+  "title": "Long quote card, plant a tree",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/b03_kyoto_map.png": {
+  "title": "Watercolor Kyoto landmark map",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/c01_ring.png": {
+  "title": "Emerald ring on black velvet",
+  "category": "Product photography and ads"
+ },
+ "r7/out/c02_watch.png": {
+  "title": "Steel watch with Roman numerals",
+  "category": "Product photography and ads"
+ },
+ "r7/out/c03_perfume.png": {
+  "title": "Perfume bottle with mirror reflection",
+  "category": "Product photography and ads"
+ },
+ "r7/out/c04_sneaker.png": {
+  "title": "White running sneaker, side view",
+  "category": "Product photography and ads"
+ },
+ "r7/out/c06_laptop.png": {
+  "title": "Blank laptop screen on a desk",
+  "category": "Product photography and ads"
+ },
+ "r7/out/c07_blemish_portrait.png": {
+  "title": "Close-up portrait with blemishes",
+  "category": "Portraits"
+ },
+ "r7/out/d01_mug_white.png": {
+  "title": "Red mug on white background",
+  "category": "Product photography and ads"
+ },
+ "r7/out/d02_mug_magenta.png": {
+  "title": "Red mug on magenta background",
+  "category": "Product photography and ads"
+ },
+ "r7/out/d03_vector_fox.png": {
+  "title": "Geometric fox head logo mark",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/d04_app_icon.png": {
+  "title": "Paper plane app icon",
+  "category": "Character design, stickers and icons"
+ },
+ "r7/out/d05_avatar_circle.png": {
+  "title": "Avatar with green scarf, wide margin",
+  "category": "Portraits"
+ },
+ "r7/out/e01_alphabet.png": {
+  "title": "Animal alphabet classroom poster",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/e02_flash_apple.png": {
+  "title": "Apple flashcard for children",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/e03_flash_fish.png": {
+  "title": "Fish flashcard for children",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/g01_panorama.png": {
+  "title": "Sunset ocean 360 panorama",
+  "category": "Game and film concept art"
+ },
+ "r7/out/g02_vn_bg.png": {
+  "title": "School rooftop visual novel background",
+  "category": "Game and film concept art"
+ },
+ "r7/out/g04_tavern_map.png": {
+  "title": "Tavern interior battle map",
+  "category": "Game and film concept art"
+ },
+ "r7/out/g05_skill_icons.png": {
+  "title": "Round bronze spell icons",
+  "category": "Game and film concept art"
+ },
+ "r7/out/g06_title_card.png": {
+  "title": "Vintage Chapter One title card",
+  "category": "Game and film concept art"
+ },
+ "r7/out/k01_cross_stitch.png": {
+  "title": "Corgi cross-stitch pixel chart",
+  "category": "Craft, print and fashion"
+ },
+ "r7/out/k02_ditsy.png": {
+  "title": "Ditsy floral fabric print",
+  "category": "Craft, print and fashion"
+ },
+ "r7/out/k03_fineline.png": {
+  "title": "Wildflower line tattoo with script",
+  "category": "Craft, print and fashion"
+ },
+ "r7/out/t01_jp_kr.png": {
+  "title": "Thank-you signs in two scripts",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/t02_hongbao.png": {
+  "title": "Red envelope with gold fortune character",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/t03_mid_autumn.png": {
+  "title": "Mid-Autumn moon greeting",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/t04_neon_vertical.png": {
+  "title": "Vertical neon night market sign",
+  "category": "Graphic design and lettering"
+ },
+ "r7/out/t05_techou.png": {
+  "title": "Kawaii planner sticker sheet",
+  "category": "Character design, stickers and icons"
+ },
+ "r7/out_edit/y01_ab_headline.png": {
+  "title": "Ad headline changed to free shipping",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y02_ab_button.png": {
+  "title": "Shop button recolored green",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y03_screen_mockup.png": {
+  "title": "App screen shown on a laptop",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y04_ghost_mannequin.png": {
+  "title": "T-shirt on a ghost mannequin",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y06_id_photo.png": {
+  "title": "Passport-style photo from a portrait",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y07_remove_tourists.png": {
+  "title": "Plaza with the tourists removed",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y08_sky_swap.png": {
+  "title": "Cathedral under a clear blue sky",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y09_turn_side.png": {
+  "title": "Character shown in side profile",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y10_turn_back.png": {
+  "title": "Character shown from behind",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y11_sneaker_red.png": {
+  "title": "Sneaker upper recolored deep red",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y13_person_magenta.png": {
+  "title": "Person on a magenta background",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y14_vn_sunset.png": {
+  "title": "Rooftop scene changed to sunset",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y15_vn_night.png": {
+  "title": "Rooftop scene changed to night",
+  "category": "Photo editing and retouching"
+ },
+ "r7/out_edit/y17_heal_seam.png": {
+  "title": "Cobblestone seam repainted",
+  "category": "Photo editing and retouching"
+ },
+ "r9/out/a01_avatar_s11.png": {
+  "title": "Avatar with green scarf, centered face",
+  "category": "Portraits"
+ },
+ "r9/out/a02_icon_square_s11.png": {
+  "title": "Paper plane icon, full square",
+  "category": "Character design, stickers and icons"
+ },
+ "r9/out/s02_sticker_s11.png": {
+  "title": "Cheering cat sticker with caption",
+  "category": "Character design, stickers and icons"
+ },
+ "r9/out_edit/e01_name_fix_s11.png": {
+  "title": "Quote card name spelling fixed",
+  "category": "Photo editing and retouching"
+ },
+ "r9/out_edit2/e02_banner_fix.png": {
+  "title": "Door scroll text corrected",
+  "category": "Photo editing and retouching"
+ }
+}

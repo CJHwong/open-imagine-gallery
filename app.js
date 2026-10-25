@@ -101,8 +101,20 @@ function open(index) {
   current = (index + shown.length) % shown.length;
   const item = shown[current];
   const img = document.getElementById('detail-img');
-  img.src = `img/${item.id}.webp`;
+  const src = `img/${item.id}.webp`;
   img.alt = item.prompt.slice(0, 200);
+  // The element still holds the last image until the new one arrives, so hide it, decode the new
+  // one off screen, and swap only if the user has not moved on to another image meanwhile.
+  if (!img.src.endsWith(src)) {
+    img.style.visibility = 'hidden';
+    const next = new Image();
+    next.src = src;
+    next.decode().catch(() => {}).then(() => {
+      if (shown[current] !== item) return;
+      img.src = src;
+      img.style.visibility = '';
+    });
+  }
   const rows = SETTINGS.filter(([key]) => setting(key, item) !== '').map(([key, label]) =>
     `<dt>${label}</dt><dd>${escape(setting(key, item))}</dd>`);
   rows.unshift(`<dt>Model</dt><dd>${escape(item.model || setup.model)}</dd>`);
